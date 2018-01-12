@@ -1,6 +1,5 @@
 function redundancyDemo
-%% Human Neuromechanical Control: Redundancy demo.
-%  Date: Feb 04
+%% Redundancy resolution demo
 clear all;
 close all;
 clc;
